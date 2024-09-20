@@ -1,0 +1,22 @@
+{
+  "name": "nodetest",
+  "version": "0.0.1",
+  "description": "Password generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonfras/node-test.git"
+  },
+  "keywords": [
+    "password"
+  ],
+  "author": "Jonas K.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonfras/node-test/issues"
+  },
+  "homepage": "https://github.com/Jonfras/node-test#readme"
+}
